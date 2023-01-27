@@ -48,6 +48,7 @@ const contact = () => {
 									<a
 										href="https://www.google.com/search?q=makeup+by+linda&oq=make&aqs=edge.0.69i59l2j0i433i512j0i20i263i512j0i512j0i433i512j69i60l2j69i61.1718j0j1&sourceid=chrome&ie=UTF-8#"
 										className="mad-link"
+										target="_blank"
 									>
 										Kenya House Complex, Nairobi
 									</a>
