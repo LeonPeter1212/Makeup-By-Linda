@@ -11,14 +11,13 @@ const welcome = () => {
 								Hello and Welcome
 							</div>
 							<h2 className="mad-title">
-								Providing <span>The Best Beauty Services</span>{" "}
-								Tailored to Your Needs
+								Providing The Best Beauty Services Tailored to Your Needs
 							</h2>
 							<div className="row justify-content-center">
 								<div className="col-xl-8">
 									<div className="mad-text-medium content-element-6">
 										<p>
-											As one of the best boutiques in
+											As one of the best beauty parlours in
 											Nairobi, our goal is to provide a
 											luxury hair and beauty experience in
 											a welcoming atmosphere where clients

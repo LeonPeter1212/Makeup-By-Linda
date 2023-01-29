@@ -35,7 +35,7 @@ const services = () => {
 										change your image just to make yourself
 										happy?
 									</p>
-									<Link href="#">
+									<Link href="/services/makeup">
 										<a className="mad-text-link">
 											Read More
 										</a>
@@ -64,7 +64,7 @@ const services = () => {
 										as bring out your facial features
 										perfectly.
 									</p>
-									<Link href="#">
+									<Link href="/services/hair">
 										<a className="mad-text-link">
 											Read More
 										</a>
@@ -89,11 +89,12 @@ const services = () => {
 									</h6>
 									<p>
 										We'll get your glow on with our wide
-										range of beauty treatments. We will start off with an in
-										depth skin analysis determining what
-										treatment is best suited for your skin.
+										range of beauty treatments. We will
+										start off with an in depth skin analysis
+										determining what treatment is best
+										suited for your skin.
 									</p>
-									<Link href="#">
+									<Link href="/services/facial">
 										<a className="mad-text-link">
 											Read More
 										</a>

@@ -16,9 +16,7 @@ export default function Makeup() {
 					makeup is something that really enhances that; it’s a
 					woman’s secret.” We offer make up application services from
 					day do day office make up, bridal, photoshoot make up,
-					editorial, print and special occasions. Day to day make up
-					look /special occasions make up Makeup is the finishing
-					touch, the final accessory. Visit us and show up looking all
+					editorial, print and special occasions. Visit us and show up looking all
 					glamorous! We are excited to offer a wide range of makeup
 					services to help you look and feel your best. Whether you're
 					looking for a simple touch-up or a full makeover, our
@@ -28,8 +26,8 @@ export default function Makeup() {
 			</div>
 			<div className="mad-body--scheme-brown mad-content no-pd">
 				<Sub1
-					title="Makeup for Photoshoots"
-					desc="Whether you're a model, an actor, or just want to have some professional photos taken, our makeup for photoshoots service is perfect for you. We'll work with you to create a look that is both camera-ready and true to your unique style."
+					title="Photoshoot Makeup"
+					desc="Whether you're a model, an actor, or just want to have some professional photos taken, our photoshoot makeup service is perfect for you. We'll work with you to create a look that is both camera-ready and true to your unique style."
 					range="From Ksh. 3,500 per person"
 				/>
 				<Sub1
